@@ -1,0 +1,9 @@
+#1 Add daily news feed - Ford
+#2 Stock / Market portfolio command - Ford
+#3 Local weather API - Ford
+#4 Password advisory - Marty
+
+
+
+Henry: hentai command
+Seyun: Wants to write 1 line of code.
